@@ -1,1 +1,2 @@
 # NextJSApp
+-Starter Example
